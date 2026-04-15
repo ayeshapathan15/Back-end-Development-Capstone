@@ -1,5 +1,4 @@
 # Back-end-Development-Capstone
-# Back-end-Development-Capstone
 
 ## 📌 Project Description
 This project is a Django-based backend application that provides APIs for managing songs and pictures. It supports CRUD operations and includes pytest-based testing.
